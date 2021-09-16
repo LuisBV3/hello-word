@@ -1,2 +1,4 @@
 # hello-word
-mi primer repositorio
+
+mi primer repositorio, soy Abraham y tengo 18 años 
+confrimo los cambios
